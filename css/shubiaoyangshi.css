@@ -1,0 +1,14 @@
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/shiluosl/cdn@1.2/img/curcor1.png), auto;
+}
+
+.hide-block > .hide-button.open,
+.hide-inline > .hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/shiluosl/cdn@1.2/img/curcor2.png), auto
+}
